@@ -34,9 +34,7 @@ Key Insights:
 
 Visualizations:
 #Feature Importance
-![Feature Importance](images/feature_importance.png)
 #ROC Curve
-![ROC Curve](images/roc_curve.png)
 
 Tech Stack:
 Python, Scikit-learn, LightGBM, TensorFlow
