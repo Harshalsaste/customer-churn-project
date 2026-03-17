@@ -18,9 +18,27 @@ Models Used:
 * Neural Network
 * LightGBM (Kaggle-level)
 
-Results:
-* ROC-AUC: ~0.88
-* Key drivers: tenure, charges, contract type
+Results & Insights:
+
+*Model Performance:
+Logistic Regression ~0.80   
+LightGBM ~0.88  
+
+Best Model:
+LightGBM performed best due to its ability to capture complex churn patterns and feature interactions.
+
+Key Insights:
+* Customers with month-to-month contracts are more likely to churn
+* Higher monthly charges increase churn probability
+* Long tenure significantly reduces churn risk
+
+Visualizations:
+#Feature Importance
+![Feature Importance](images/feature_importance.png)
+
+#ROC Curve
+![ROC Curve](images/roc_curve.png)
+
 
 Tech Stack:
 Python, Scikit-learn, LightGBM, TensorFlow
