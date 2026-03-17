@@ -34,11 +34,9 @@ Key Insights:
 
 Visualizations:
 #Feature Importance
-![Feature Importance](feature_importance churn.png)
-
+![Feature Importance](images/feature_importance churn.png)
 #ROC Curve
-![ROC Curve](roc_curve churn.png)
-
+![ROC Curve](images/roc_curve churn.png)
 
 Tech Stack:
 Python, Scikit-learn, LightGBM, TensorFlow
