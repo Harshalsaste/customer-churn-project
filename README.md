@@ -34,10 +34,10 @@ Key Insights:
 
 Visualizations:
 #Feature Importance
-![Feature Importance](images/feature_importance.png)
+![Feature Importance](feature_importance churn.png)
 
 #ROC Curve
-![ROC Curve](images/roc_curve.png)
+![ROC Curve](roc_curve churn.png)
 
 
 Tech Stack:
